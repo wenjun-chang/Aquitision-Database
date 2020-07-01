@@ -1,1 +1,1 @@
-# Aquitision-Database
+# Aquitision database to be developed to track potentially all acquisitions of all publically traded companies in the market, which enables research on the correlation between acquisition and firm value/growth/future performance, etc. 
